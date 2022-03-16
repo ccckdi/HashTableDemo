@@ -1,0 +1,2 @@
+# HashTableDemo
+使用Java实现一个哈希表，并且不用Java内置的集合函数以及hashcode等方法
